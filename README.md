@@ -5,6 +5,4 @@
     Using Pandas
   
   
-  Web Scraping Code 
   
-    Using Beautiful Soup
