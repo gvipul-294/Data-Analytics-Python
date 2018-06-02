@@ -132,6 +132,6 @@ for i in Ques:
     """a=''.join(i)
     b='.1'
 """    
-    print(df4_set[i][0])
+    print(df4[i][0])
 
 
